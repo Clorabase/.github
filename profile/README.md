@@ -1,6 +1,6 @@
 ## Clorabase ~ develope endlessly, for free  
 
-![Clorabase-logo](https://docs.clorabase.tk/favicon.png)
+![Clorabase-logo](https://clorabase-docs.netlify.app/favicon.png)
   
 
 <a href="https://linkedin.com/in/rahilxcoder" target="_blank">
